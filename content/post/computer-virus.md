@@ -1,3 +1,9 @@
+---
+title: "Computer Virus"
+date: 2020-07-15T09:53:35+01:00
+draft: true
+---
+
 # Computer Virus
 
 <small><i>[14 Jul 2020. Part of an ongoing essay on computation, capitalism, and Covid-19.]</i></small>
